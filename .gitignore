@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+logs.txt
+spark-warehouse/
+node_modules/
+package-lock.json
+package.json
+.DS_Store
+
